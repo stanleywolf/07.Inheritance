@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.pdb

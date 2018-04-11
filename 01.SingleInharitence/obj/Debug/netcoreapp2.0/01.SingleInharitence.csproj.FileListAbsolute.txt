@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\bin\Debug\netcoreapp2.0\01.SingleInharitence.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\bin\Debug\netcoreapp2.0\01.SingleInharitence.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\bin\Debug\netcoreapp2.0\01.SingleInharitence.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\bin\Debug\netcoreapp2.0\01.SingleInharitence.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\bin\Debug\netcoreapp2.0\01.SingleInharitence.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\obj\Debug\netcoreapp2.0\01.SingleInharitence.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\obj\Debug\netcoreapp2.0\01.SingleInharitence.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\obj\Debug\netcoreapp2.0\01.SingleInharitence.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\obj\Debug\netcoreapp2.0\01.SingleInharitence.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\obj\Debug\netcoreapp2.0\01.SingleInharitence.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\07.Inheritance\01.SingleInharitence\obj\Debug\netcoreapp2.0\01.SingleInharitence.pdb
